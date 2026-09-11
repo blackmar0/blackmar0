@@ -1,16 +1,46 @@
-## Hi there 👋
+# Olá! Eu sou João Victor 👋
 
-<!--
-**blackmar0/blackmar0** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 Estudante de Ciência da Computação na FEI  
+📊 Interessado em Dados e Engenharia de Dados  
+💻 Desenvolvendo projetos acadêmicos e pessoais na área de tecnologia
 
-Here are some ideas to get you started:
+## 🛠️ Tecnologias
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- Python
+- SQL
+- Excel
+- Git & GitHub
+- Cloud
+- JavaScript
+- HTML & CSS
+- C++
+
+## 📚 Atualmente estudando
+
+- Python aplicado a Dados
+- SQL
+- Power BI
+- Banco de Dados
+- Engenharia de Dados
+
+## 🚀 Projetos
+
+Atualmente desenvolvendo projetos acadêmicos e pessoais envolvendo:
+
+- Desenvolvimento em Python
+- Banco de Dados e SQL
+- Desenvolvimento Web
+- Sistemas com Node.js e MongoDB
+- Análise e visualização de dados
+
+Confira meus repositórios para conhecer meus projetos.
+
+## 📜 Certificações
+
+- Excel Intermediário — Fundação Bradesco
+
+## 📫 Contato
+
+📧 E-mail: jvictoreferreira@gmail.com
+
+💼 LinkedIn: https://www.linkedin.com/in/jo%C3%A3o-victor-euclides-ferreira-a17880346/
