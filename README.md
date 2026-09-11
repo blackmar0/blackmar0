@@ -10,7 +10,6 @@
 - SQL
 - Excel
 - Git & GitHub
-- Cloud
 - JavaScript
 - HTML & CSS
 - C++
